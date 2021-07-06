@@ -29,7 +29,7 @@ body{
 }
 .second-width{
     padding-left:11%;
-    padding-top:18%;
+    padding-top:10%;
     padding-right:10%;
 
 }
@@ -74,7 +74,9 @@ body{
     margin-top:5%;
 }
 .social-media{
-    height:100%;
+    padding:3%;
+    margin-left: 10%;
+    margin-right: 10%;
     border-radius: 20px;
     box-shadow:  10px 10px 50px gray;
     backround-color:black;
@@ -82,4 +84,11 @@ body{
 .footer{
     background-color: black;
     color:white;
+    padding:4%;
+}
+.small{
+    font-size:15px;
+}
+.text{
+    text-align: center;
 }

@@ -4,7 +4,7 @@ body{
 }
 .banner{
     display:flex;
-    margin-bottom:15px;
+    margin-bottom:50px;
 }
 .width{
     width:80%;
@@ -43,4 +43,43 @@ body{
 .second-backround-banner{
     background-image:url(food-network-main/images/shapes/7.png);
     background-repeat: no-repeat;
+}
+.margin{
+    margin-bottom: 100px;
+}
+
+ h1{
+    font-size:2rem;
+    margin-bottom:10px;
+    font-weight:bolder;
+    text-align:center;
+}
+#id1{
+    padding-left:25%;
+    padding-right:25%;
+    text-align:center;
+}
+.recepie-item{
+    width:50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left:20px;
+    border-radius: 20px;
+    box-shadow:  10px 10px 15px gray;
+}
+
+
+.recepie-image{
+    width:95%;
+    margin-top:5%;
+}
+.social-media{
+    height:100%;
+    border-radius: 20px;
+    box-shadow:  10px 10px 50px gray;
+    backround-color:black;
+}
+.footer{
+    background-color: black;
+    color:white;
 }

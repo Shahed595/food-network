@@ -22,19 +22,20 @@ body{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(tomato,orange);
+    background-image: linear-gradient(orange,tomato);
     color:white;
     padding:17px 35px;
     border-radius: 70px;
 }
 .second-width{
     padding-left:11%;
-    padding-top:20%;
+    padding-top:18%;
     padding-right:10%;
 
 }
 .img-class{
     padding-left: 10%;
+    height:465px;
 }
 .second-width h1{
     font-size: 30px;

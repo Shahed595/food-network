@@ -48,7 +48,7 @@ body{
     margin-bottom: 100px;
 }
 
- h1{
+ .media-elements{
     font-size:2rem;
     margin-bottom:10px;
     font-weight:bolder;
@@ -78,8 +78,14 @@ body{
     margin-left: 10%;
     margin-right: 10%;
     border-radius: 20px;
-    box-shadow:  10px 10px 50px gray;
+    box-shadow:  10px 10px 15px gray;
     backround-color:black;
+}
+#social-icon2{
+    margin-left:240px;
+}
+#social-icon3{
+    margin-left:240px;
 }
 .footer{
     background-color: black;
@@ -89,6 +95,6 @@ body{
 .small{
     font-size:15px;
 }
-.text{
+#last-id{
     text-align: center;
 }
